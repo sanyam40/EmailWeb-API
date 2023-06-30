@@ -1,4 +1,4 @@
-# EmailWeb-API-Spring Boot
+# EmailWeb-API-Spring Boot 📧
 This repository contains a codebase for an API that sends an email.
 
 # ScreenShots
